@@ -1,7 +1,6 @@
 # go-gigachat
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/skiphead/go-gigachat.svg)](https://pkg.go.dev/github.com/skiphead/go-gigachat)
-[![Go Report Card](https://goreportcard.com/badge/github.com/skiphead/go-gigachat)](https://goreportcard.com/report/github.com/skiphead/go-gigachat)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Go client library for the [GigaChat API](https://developers.sber.ru/docs/ru/gigachat/api/overview) from Sber.
@@ -19,3 +18,4 @@ Go client library for the [GigaChat API](https://developers.sber.ru/docs/ru/giga
 
 ```bash
 go get github.com/skiphead/go-gigachat
+```
